@@ -3,4 +3,5 @@ def my_each(array)
   while array = 0 
     yield array[x]
     x = x + 1 
+  end 
 end
